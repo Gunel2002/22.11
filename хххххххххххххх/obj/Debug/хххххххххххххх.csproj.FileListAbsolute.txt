@@ -1,0 +1,8 @@
+C:\Users\GUNEL\source\repos\хххххххххххххх\хххххххххххххх\bin\Debug\хххххххххххххх.exe.config
+C:\Users\GUNEL\source\repos\хххххххххххххх\хххххххххххххх\bin\Debug\хххххххххххххх.exe
+C:\Users\GUNEL\source\repos\хххххххххххххх\хххххххххххххх\bin\Debug\хххххххххххххх.pdb
+C:\Users\GUNEL\source\repos\хххххххххххххх\хххххххххххххх\obj\Debug\хххххххххххххх.csproj.AssemblyReference.cache
+C:\Users\GUNEL\source\repos\хххххххххххххх\хххххххххххххх\obj\Debug\хххххххххххххх.csproj.SuggestedBindingRedirects.cache
+C:\Users\GUNEL\source\repos\хххххххххххххх\хххххххххххххх\obj\Debug\хххххххххххххх.csproj.CoreCompileInputs.cache
+C:\Users\GUNEL\source\repos\хххххххххххххх\хххххххххххххх\obj\Debug\хххххххххххххх.exe
+C:\Users\GUNEL\source\repos\хххххххххххххх\хххххххххххххх\obj\Debug\хххххххххххххх.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "хххххххххххххх", "хххххххххххххх\хххххххххххххх.csproj", "{21CE2884-4D9B-4CB7-BF44-D4B491A0CDBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opyss", "opyss\opyss.csproj", "{355D29A5-7BB6-4EDE-927E-F0EE7C4AFB88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CE2884-4D9B-4CB7-BF44-D4B491A0CDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CE2884-4D9B-4CB7-BF44-D4B491A0CDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CE2884-4D9B-4CB7-BF44-D4B491A0CDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CE2884-4D9B-4CB7-BF44-D4B491A0CDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355D29A5-7BB6-4EDE-927E-F0EE7C4AFB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355D29A5-7BB6-4EDE-927E-F0EE7C4AFB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355D29A5-7BB6-4EDE-927E-F0EE7C4AFB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355D29A5-7BB6-4EDE-927E-F0EE7C4AFB88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D57642B0-AA6A-4164-8154-9E8566079A6F}
+	EndGlobalSection
+EndGlobal
